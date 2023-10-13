@@ -106,4 +106,4 @@ if (multiplication3 == 11) {
 }
 
 
-// alert ("Open console to show your 7 answmers!!")
+// alert ("Open console to show your 7 answmers!!")$
